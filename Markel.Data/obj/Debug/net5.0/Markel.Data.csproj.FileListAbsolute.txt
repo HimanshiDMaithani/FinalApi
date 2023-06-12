@@ -1,0 +1,12 @@
+C:\Users\dhmai\source\repos\Markel.Data\bin\Debug\net5.0\Markel.Data.deps.json
+C:\Users\dhmai\source\repos\Markel.Data\bin\Debug\net5.0\Markel.Data.dll
+C:\Users\dhmai\source\repos\Markel.Data\bin\Debug\net5.0\ref\Markel.Data.dll
+C:\Users\dhmai\source\repos\Markel.Data\bin\Debug\net5.0\Markel.Data.pdb
+C:\Users\dhmai\source\repos\Markel.Data\obj\Debug\net5.0\Markel.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhmai\source\repos\Markel.Data\obj\Debug\net5.0\Markel.Data.AssemblyInfoInputs.cache
+C:\Users\dhmai\source\repos\Markel.Data\obj\Debug\net5.0\Markel.Data.AssemblyInfo.cs
+C:\Users\dhmai\source\repos\Markel.Data\obj\Debug\net5.0\Markel.Data.csproj.CoreCompileInputs.cache
+C:\Users\dhmai\source\repos\Markel.Data\obj\Debug\net5.0\Markel.Data.dll
+C:\Users\dhmai\source\repos\Markel.Data\obj\Debug\net5.0\ref\Markel.Data.dll
+C:\Users\dhmai\source\repos\Markel.Data\obj\Debug\net5.0\Markel.Data.pdb
+C:\Users\dhmai\source\repos\Markel.Data\obj\Debug\net5.0\Markel.Data.csproj.AssemblyReference.cache
