@@ -5,7 +5,6 @@ C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\MarkelAPI.deps.json
 C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\MarkelAPI.runtimeconfig.json
 C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\MarkelAPI.runtimeconfig.dev.json
 C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\MarkelAPI.dll
-C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\ref\MarkelAPI.dll
 C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\MarkelAPI.pdb
 C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -19,7 +18,6 @@ C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\MarkelAPI.csproj.CoreComp
 C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\MarkelAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\MarkelAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\staticwebassets\MarkelAPI.StaticWebAssets.Manifest.cache
-C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\staticwebassets\MarkelAPI.StaticWebAssets.xml
 C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\scopedcss\bundle\MarkelAPI.styles.css
 C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\MarkelAPI.RazorTargetAssemblyInfo.cache
 C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\MarkelAPI.csproj.CopyComplete
@@ -29,3 +27,9 @@ C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\MarkelAPI.pdb
 C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\MarkelAPI.genruntimeconfig.cache
 C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\Markel.Data.dll
 C:\Users\dhmai\source\repos\MarkelAPI\bin\Debug\net5.0\Markel.Data.pdb
+C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\staticwebassets\MarkelAPI.StaticWebAssets.Pack.cache
+C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\staticwebassets\msbuild.MarkelAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.MarkelAPI.props
+C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MarkelAPI.props
+C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MarkelAPI.props
+C:\Users\dhmai\source\repos\MarkelAPI\obj\Debug\net5.0\refint\MarkelAPI.dll

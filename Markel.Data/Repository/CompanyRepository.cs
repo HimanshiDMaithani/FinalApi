@@ -26,7 +26,7 @@ namespace Markel.Data.Repository
                 Postcode = "XX1 1YY",
                 Country = "UK",
                 Active = true,
-                InsuranceEndDate = DateTime.Now.AddDays(30)
+                InsuranceEndDate = DateTime.Now.AddDays(30).Date
             });
             _companies.Add(new Company
             {
@@ -38,7 +38,7 @@ namespace Markel.Data.Repository
                 Postcode = "XX2 2YY",
                 Country = "UK",
                 Active = true,
-                InsuranceEndDate = DateTime.Now.AddDays(60)
+                InsuranceEndDate = DateTime.Now.AddDays(60).Date
             });
             _companies.Add(new Company
             {
@@ -50,7 +50,7 @@ namespace Markel.Data.Repository
                 Postcode = "XX3 3YY",
                 Country = "UK",
                 Active = false,
-                InsuranceEndDate = DateTime.Now.AddDays(10)
+                InsuranceEndDate = DateTime.Now.AddDays(10).Date
             });
         }
 
